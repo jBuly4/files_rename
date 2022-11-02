@@ -7,6 +7,8 @@ Simple script for renaming files in target directory.
 Script renames files that satisfy next pattern:  
 ^\w{2}\d\s-\s\w+[.]\w{3,4} (hope this is correct regular expression =))
 
+**Script didn't tested on directories.**
+
 Example:
 fl1 - Test File.txt
 fl2 - Second File to be tested.txt
