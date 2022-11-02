@@ -10,9 +10,9 @@ Script renames files that satisfy next pattern:
 **Script didn't tested on directories.**
 
 Example:
-fl1 - Test File.txt
-fl2 - Second File to be tested.txt
-fl3 - Third file for tests.docx
+- fl1 - Test File.txt
+- fl2 - Second File to be tested.txt
+- fl3 - Third file for tests.docx
 
 Data inside files are not changing.
 
